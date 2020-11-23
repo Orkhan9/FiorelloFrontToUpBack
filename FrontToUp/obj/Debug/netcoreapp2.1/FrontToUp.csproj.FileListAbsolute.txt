@@ -1,0 +1,193 @@
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.deps.json
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.runtimeconfig.json
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.runtimeconfig.dev.json
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.dll
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.pdb
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.AssemblyInfo.cs
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.dll
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.pdb
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.genruntimeconfig.cache
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.TagHelpers.input.cache
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.TagHelpers.output.cache
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.RazorCoreGenerate.cache
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.Views.dll
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.Views.pdb
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.Views.pdb
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.csproj.CopyComplete
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\asp.net\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.deps.json
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.runtimeconfig.json
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.runtimeconfig.dev.json
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.dll
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.pdb
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.Views.dll
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.Views.pdb
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.AssemblyInfo.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.TagHelpers.input.cache
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.TagHelpers.output.cache
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.RazorCoreGenerate.cache
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.Views.pdb
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.dll
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.pdb
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.genruntimeconfig.cache
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.csproj.CopyComplete
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ProductPartial.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Products\Default.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SearchProductPartial.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Basket.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Category\Index.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Category\Detail.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Category\Create.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Shared\_Validation.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Category\Update.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Category\Delete.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Slider\Index.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\Asp.net\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Slider\Create.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.deps.json
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.runtimeconfig.json
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.runtimeconfig.dev.json
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.dll
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.pdb
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.Views.dll
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.Views.pdb
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.AssemblyInfo.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.TagHelpers.input.cache
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.TagHelpers.output.cache
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.RazorCoreGenerate.cache
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Category\Create.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Category\Delete.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Category\Detail.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Category\Index.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Category\Update.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Shared\_Validation.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Slider\Create.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Slider\Index.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Basket.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Products\Default.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ProductPartial.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SearchProductPartial.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.Views.pdb
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.dll
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.pdb
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.genruntimeconfig.cache
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.csproj.CopyComplete
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Slider\Detail.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Slider\Delete.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Slider\Update.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Users\Index.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Users\ChangeStatus.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Users\ChangeRole.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Products\Index.cshtml.g.cs
+C:\Users\User\Desktop\visual studio me\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Products\Create.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.deps.json
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.runtimeconfig.json
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.runtimeconfig.dev.json
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.dll
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.pdb
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.Views.dll
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\bin\Debug\netcoreapp2.1\FrontToUp.Views.pdb
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.AssemblyInfo.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.TagHelpers.input.cache
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.TagHelpers.output.cache
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.RazorCoreGenerate.cache
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Category\Create.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Category\Delete.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Category\Detail.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Category\Index.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Category\Update.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Products\Create.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Products\Index.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Shared\_Validation.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Slider\Create.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Slider\Delete.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Slider\Detail.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Slider\Index.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Slider\Update.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Users\ChangeRole.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Users\ChangeStatus.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\Users\Index.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Areas\AdminF\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Basket.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Products\Default.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ProductPartial.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SearchProductPartial.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.Views.pdb
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.dll
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.pdb
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.genruntimeconfig.cache
+C:\Users\User\Desktop\my projects\ASP\FrontToUp\FrontToUp\obj\Debug\netcoreapp2.1\FrontToUp.csproj.CopyComplete
